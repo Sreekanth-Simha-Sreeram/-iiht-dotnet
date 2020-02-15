@@ -1,0 +1,14 @@
+E:\Shilpa\EMart\EMart.Entities\bin\Debug\EMart.Entities.dll
+E:\Shilpa\EMart\EMart.Entities\bin\Debug\EMart.Entities.pdb
+E:\Shilpa\EMart\EMart.Entities\bin\Debug\FluentNHibernate.dll
+E:\Shilpa\EMart\EMart.Entities\bin\Debug\System.Web.Mvc.dll
+E:\Shilpa\EMart\EMart.Entities\bin\Debug\FluentNHibernate.xml
+E:\Shilpa\EMart\EMart.Entities\bin\Debug\System.Web.Mvc.xml
+E:\Shilpa\EMart\EMart.Entities\obj\Debug\EMart.Entities.dll
+E:\Shilpa\EMart\EMart.Entities\obj\Debug\EMart.Entities.pdb
+E:\Shilpa\Backup\EMart\EMart.Entities\bin\Debug\EMart.Entities.dll
+E:\Shilpa\Backup\EMart\EMart.Entities\bin\Debug\EMart.Entities.pdb
+E:\Shilpa\Backup\EMart\EMart.Entities\bin\Debug\FluentNHibernate.dll
+E:\Shilpa\Backup\EMart\EMart.Entities\bin\Debug\FluentNHibernate.xml
+E:\Shilpa\Backup\EMart\EMart.Entities\obj\Debug\EMart.Entities.dll
+E:\Shilpa\Backup\EMart\EMart.Entities\obj\Debug\EMart.Entities.pdb
